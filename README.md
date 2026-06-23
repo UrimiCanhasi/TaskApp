@@ -50,4 +50,14 @@ npm run ios
 - `src/hooks/useTasks.js` — centralized task hook (loading, persistence, search/filter, mutators)
 - `src/utils/storage.js` — local storage helpers
 
+## Screenshots
+Below are screenshots of the app (rendered by GitHub when viewing this repository):
+
+![Task list screenshot](screenshots/IMG_0992.PNG)
+
+![Task detail screenshot](screenshots/IMG_0993.PNG)
+
+![Add task screenshot](screenshots/IMG_0994.PNG)
+
+
 
