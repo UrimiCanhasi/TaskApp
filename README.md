@@ -11,17 +11,14 @@
 - Expo CLI (optional; project includes npm scripts that use the local `expo` dependency)
 
 ## Install
-1. From the project root, install dependencies:
+From the project root, install and start the app:
 
 ```bash
-npm install
+npm i
+npm start
 ```
 
-2. If you use `nvm`, ensure a compatible Node version is active, for example:
-
-```bash
-nvm use node
-```
+Note: a `.npmrc` is included to simplify installs for contributors.
 
 ## Run
 - Start the Expo dev server:
